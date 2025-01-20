@@ -65,9 +65,5 @@ Las pruebas aseguran que los métodos se comporten correctamente bajo diferentes
     cd cuenta-bancaria
     ```
 
-3. Ejecuta las pruebas unitarias para verificar que todo esté funcionando correctamente:
-    ```bash
-    python -m unittest discover
-    ```
 
 
